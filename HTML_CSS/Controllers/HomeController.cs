@@ -13,6 +13,7 @@ namespace HTML_CSS.Controllers
         public IActionResult Index()
         {
             return View();
+            
         }
 
         public IActionResult About()
